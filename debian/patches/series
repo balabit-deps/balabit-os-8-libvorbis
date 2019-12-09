@@ -1,0 +1,5 @@
+0001-Fix-build-failure-with-DSO-link-changes.patch
+0002-Avoid-SIGFPE-when-bytespersample-is-zero.patch
+0003-CVE-2017-14160-fix-bounds-check-on-very-low-sample-r.patch
+0004-Sanity-check-number-of-channels-in-setup.patch
+0005-vorbisenc-detect-if-new-template-is-null.patch
